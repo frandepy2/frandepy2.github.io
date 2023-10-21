@@ -6,7 +6,7 @@ permalink: about
 
 # About Ivan Weiss
 
-Hello! I'm Fran sanabria, a 23-year-old software developer deeply passionate about crafting innovative solutions. With a robust academic background in Software Engineering, I bring a diverse set of skills and expertise to any project.
+Hello! I'm Fran sanabria, a 23-year-old software developer deeply passionate about crafting innovative solutions. With a robust academic background in Software Engineering, I bring a diverse set of skills and expertise to any project. 
 
 ## My Journey
 
