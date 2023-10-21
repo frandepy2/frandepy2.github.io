@@ -23,7 +23,6 @@ During my time at FP-UNA, I've participated in:
 
 ### Computer Science at Colegio Técnico Vocacional Carlos Antonio Lopez
 
-![Carlos Antonio Lopez Logo](assets/img/fpuna_logo_institucional.svg){:height="50px" width="50px"}
 
 My foundational knowledge in computer science began at Colegio Técnico Vocacional Carlos Antonio Lopez. Here, I was introduced to the world of IT, learning essential skills from basic IT solutions to computer repair. 
 
