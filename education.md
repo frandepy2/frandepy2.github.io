@@ -3,16 +3,52 @@ layout: page
 title: Education
 permalink: education
 ---
-Hello, I'm Ivan Weiss, a 23-year-old software developer passionate about crafting innovative solutions. With a strong academic background in Software Engineering, I bring a diverse set of skills and expertise to the table
 
-## Where i've studied
+## Where I've Studied
 
-### BACHELOR'S DEGREE IN COMPUTER SCIENCE AT FP-UNA<a href="https://www.pol.una.py//" rel="some text">![img](assets/img/logos/fpuna_logo_institucional.svg){:height="50px" width="50px" .callout}</a> 
+### Bachelor's Degree in Computer Science at FP-UNA
 
- I'm pursuing my passion for technology by earning a Bachelor's degree in Computer Science. During my studies, I gained a solid foundation in computer programming, algorithms, data structures, and software development. The program equipped me with the necessary skills to analyze complex problems, design efficient solutions, and develop robust software applications. I had the opportunity to work on various projects, collaborate with classmates, and learn from experienced professors.
-### STUDY ABROAD PROGRAM IN WICHITA, KANSAS <a href="https://www.wichita.edu/" rel="some text">![img](assets/img/logos/WSU_vertical_logo_transparent.png){:height="100px" width="100px" .callout}</a>
+![FP-UNA Logo](assets/img/logos/fpuna_logo_institucional.svg){:height="50px" width="50px"}
 
- i had the oportunity to study in the USA with a scholarship offered by BECAL. douring my stay in the Wichita State University i practiced my english to perfection. in the usa i participated in many events and even got to the second phase of a business competition with my idea for an automated reforestation rover 
+I am currently pursuing my degree in Computer Science (Ingeniero Informático) at Facultad Politécnica. Here, I have honed my skills in programming languages like Java, JavaScript, Dart, Flutter, and C. 
 
- youtube presentation ->
-<a href="https://youtu.be/J051XxNL2iM" rel="some text">![img](assets/img/logos/botanicBuddyLogo.png){:height="50px" width="50px" .callout}</a>
+#### Courses and Certifications
+> _Add details about specific courses, certifications, or workshops you've attended or completed._
+
+#### Projects
+> _Brief about any significant projects you undertook during this time._
+
+#### Events and Activities
+During my time at FP-UNA, I've participated in:
+
+- Competitive Programming
+- Hackathons
+- Volunteer programs with IEEE
+
+---
+
+### Computer Science at Colegio Técnico Vocacional Carlos Antonio Lopez
+
+![Carlos Antonio Lopez Logo](assets/img/fpuna_logo_institucional.svg){:height="50px" width="50px"}
+
+My foundational knowledge in computer science began at Colegio Técnico Vocacional Carlos Antonio Lopez. Here, I was introduced to the world of IT, learning essential skills from basic IT solutions to computer repair. 
+
+#### Courses and Certifications
+> _Add details about specific courses or certifications you've achieved._
+
+#### Projects
+> _Details about any projects or assignments that were significant during this period._
+
+---
+
+## Additional Trainings and Workshops
+
+> _Include details about any additional trainings, workshops, or seminars you've attended outside of your formal education._
+
+---
+
+## Skills and Expertise
+
+> _List down specific skills, tools, or technologies you're proficient in._
+
+---
