@@ -51,5 +51,3 @@ Here's a rundown of the tools, languages, and technologies I'm proficient in:
 - **Frameworks & Platforms**: Android Studio, Spring Boot.
 - **Databases**: SQL Oracle, Postgres.
 - **Tools**: Postman, Git, GitHub, Jira, Figma, Firebase.
-
-[Download my Resume](./assets/img/Resumes/Resumen%20Ivan%20Weiss%20Van%20Der%20Pol%2003072023.pdf){:target="_blank"}
