@@ -4,39 +4,52 @@ title: About Me
 permalink: about
 ---
 
-Hello, I'm Ivan Weiss, a 23-year-old software developer passionate about crafting innovative solutions. With a strong academic background in Software Engineering, I bring a diverse set of skills and expertise to the table
+# About Ivan Weiss
 
-if you are interested feel free to  [Download my Resume](./assets/img/Resumes/Resumen%20Ivan%20Weiss%20Van%20Der%20Pol%2003072023.pdf){:target="_blank"}
-### Languges
+Hello! I'm Ivan Weiss, a 23-year-old software developer deeply passionate about crafting innovative solutions. With a robust academic background in Software Engineering, I bring a diverse set of skills and expertise to any project.
 
-I am fluent in English, Spanish (Castilian) and i'm polishing my Dutch (Flemish). Being multilingual enables me to effectively communicate and collaborate with diverse teams and stakeholders, facilitating seamless project execution.
+## My Journey
 
-| Languages | Speech   | Reading   | Writing   |
-|-----------|----------|-----------|-----------|
-| English   | Native   | Native    | Native    |
-| Spanish   | Native   | Native    | Native    |
-| Dutch     | Native   | Intermediate | Beginner |
+Growing up, I was always drawn to the world of computer science. What I love most about this field is the continual need to surpass oneself and the excitement of finding and creating novel solutions. The ever-evolving landscape of technology keeps me motivated, and the thrill of learning something new every day is unparalleled.
 
-## Experience
+## Recognitions and Achievements
 
-- QA Engineer (Manual Testing) at WPG.srl - [2018/Oct - Present]
-- Software Developer at WPG.srl - [2018/Oct - Present]
+Throughout my career, I've received several recognitions and have been part of significant projects:
+- Recognized as the **"Voluntario Destacado"** by the IEEE Robotics and Automation Society.
+- Certified as a **Flutter Developer**.
+- Proudly worked on the **Eko Paraguay App**, a standout project in my portfolio.
 
-## Skills
+## Hobbies & Interests
 
-As a software engineer, I possess a wide range of technical skills that enable me to tackle complex challenges and deliver high-quality solutions. Here are some of my key skills:
+Outside of my professional life:
+- 🎹 I'm a pianist and thoroughly enjoy playing the piano.
+- 🏋️‍♂️ Fitness enthusiast who loves hitting the gym.
+- 🍳 Cooking aficionado, always eager to try out new recipes.
 
-| **Automation:**                                                                          | **Data Analysis:**                                                                   | **Version Control:**                                                                |
-| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- |
-| <img src="assets/img/logos/Selenium_logo.svg" alt="Selenium" height="70" width="130"  /> | <img src="assets/img/logos/Pandas_logo.svg" alt="Pandas" height="70" width="130"  /> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git"  /> |
+## Professional Aspirations
 
-| **Front-end:**                                                                                               | **Back-end:**                                                                                                      | **Databases:**                                                                                                  |
-| ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- |
-| <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="HTML"  />                       | <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="Java" height="50" width="120"  />       | <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="MySQL" height="70" width="130"  /> |
-| <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="CSS" height="60" width="90"  /> | <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" alt="Python" height="50" width="150"  /> |                                                                                                                 |
-| <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JS"  />                     | <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="Django"  />                 |                                                                                                                 |
-| <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="React"  />                        |                                                                                                                    |                                                                                                                 |
+In the next 5 years, I envision myself delving deeper into mobile development. My ambition is to become a Lead Mobile Developer or Product Owner, guiding teams to create cutting-edge mobile applications.
 
-## PASSION AND INTERESTS
+## Collaboration & Teamwork
 
-Apart from coding, I am particularly interested in automation, Python, and leveraging tools like Selenium for efficient and scalable testing. I thrive on learning new technologies and staying up-to-date with industry trends, allowing me to deliver cutting-edge solutions.
+My experience working in agile environments has taught me the significance of collaboration and adaptability. As the mobile developer of my team, I primarily focus on front-end development but am versatile enough to assist the back-end team when needed. Some of my notable contributions include:
+- Implementing automated systems for image information retrieval.
+- Addressing critical functionalities during times of crisis.
+- Offering real-life assistance to team members and setting up new colleagues when processes falter.
+
+## Challenges Faced
+
+Every professional journey has its share of challenges. Some of the hurdles I've overcome include:
+- Integrating payment solutions with the central bank.
+- Leading the support team during demanding times.
+- Seamlessly incorporating biometry into our app.
+
+## Technical Proficiencies
+
+Here's a rundown of the tools, languages, and technologies I'm proficient in:
+- **Languages**: Dart, Flutter, Spanish, C, Java, Python.
+- **Frameworks & Platforms**: Android Studio, Spring Boot.
+- **Databases**: SQL Oracle, Postgres.
+- **Tools**: Postman, Git, GitHub, Jira, Figma, Firebase.
+
+[Download my Resume](./assets/img/Resumes/Resumen%20Ivan%20Weiss%20Van%20Der%20Pol%2003072023.pdf){:target="_blank"}
